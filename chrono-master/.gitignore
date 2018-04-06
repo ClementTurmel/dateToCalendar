@@ -1,0 +1,13 @@
+# Node Modules
+node_modules/*
+
+# Coverages
+coverage/
+
+# Misc
+.Rhistory
+.idea/
+.DS_Store
+.vscode
+.settings
+
