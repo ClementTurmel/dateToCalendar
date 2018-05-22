@@ -1,2 +1,2 @@
 # dateToCalendar
-read DOM and add buttons to after dates to add events to calendar
+select text containing date and it's addind popin to add to your google calendar
